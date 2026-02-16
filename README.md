@@ -5,6 +5,8 @@
 
 This repository contains the practice code for the labs in **IBM-CD0215EN-SkillsNetwork Introduction to CI/CD**
 
+> This repo's name is: `ci-cd-final-project`
+
 ## Contents
 
 - Lab 1: [Build an empty Pipeline](labs/01_base_pipeline/README.md)
